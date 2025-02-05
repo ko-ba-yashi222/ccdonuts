@@ -39,7 +39,11 @@
 
 </div> 
 <div class=registBox>
-<a href='registration.php'>会員登録はこちら</a>
+    <a href='registration.php'>会員登録はこちら</a>
+</div>
+
+<div class=registBox>
+    <a href='logout.php'>ログアウトはこちら</a>
 </div>
 
 </form>
